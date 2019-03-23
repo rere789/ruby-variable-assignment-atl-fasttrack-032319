@@ -2,8 +2,8 @@
 describe "./variable.rb" do
 
 def greeting()
-  puts "Hello World"
+  put "Hello World"
 end
 
-greeting()
+greeting
 
